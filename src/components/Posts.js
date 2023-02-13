@@ -18,12 +18,12 @@ export default function Posts() {
             quantidadeCurtida: 159
         },
         {
-            imagemPost: "gato-telefone",
-            usuario: "meowed",
-            imagemUsuario: "meowed",
-            curtidoPor: "respondeai",
-            imagemCurtidoPor: "respondeai",
-            quantidadeCurtida: 523
+            imagemPost: "chibirdart",
+            usuario: "jorge",
+            imagemUsuario: "dog",
+            curtidoPor: "marcelo",
+            imagemCurtidoPor: "barked",
+            quantidadeCurtida: 232
         },
         {
             imagemPost: "dog",

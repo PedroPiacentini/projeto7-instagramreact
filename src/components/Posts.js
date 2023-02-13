@@ -37,7 +37,7 @@ export default function Posts() {
 
     return (
 
-        <div data-test="post" class="posts">
+        <div class="posts">
             {posts.map((post) => <Post
                 imagemPost={post.imagemPost}
                 usuario={post.usuario}
